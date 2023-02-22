@@ -1,8 +1,14 @@
-# Final Project-美食推薦機器人
+# 食在好用-台南美食推薦機器人
 
-<!-- ## Contents
-- [檔案架構] -->
+## 專案簡介
 
+![頁面4](/images/Slide4.JPG)
+![](/images/Slide5.JPG)
+![](/images/Slide6.JPG)
+![](/images/Slide7.JPG)
+![](/images/Slide8.JPG)
+![](/images/Slide9.JPG)
+![](/images/Slide10.JPG)
 ## 檔案架構
 
 ```bash
@@ -37,7 +43,7 @@ Final Project
 
 ## Docker 建置
 
-- 步驟一：將 dockerfile 打包成 image
+<!-- - 步驟一：將 dockerfile 打包成 image
 
 ```bash
 $ docker build -t final_project .
@@ -50,8 +56,8 @@ $ docker build -t final_project .
 $ docker run -d -p 80:8082 --name final final_project
 # -d 背景執行
 # -p 將主機80port與container的 8082 port 綁定
-# --name container名稱
-```
+# --name container名稱 -->
+<!-- ``` -->
 
 ## Other Code From Colab
 
